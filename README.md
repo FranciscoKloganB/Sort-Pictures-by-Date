@@ -1,7 +1,9 @@
 # Topological Sorting
 
 Institution: Instituto Superior Técnico - Universidade de Lisboa
+
 Course: Computer Science and Engineering (LEIC)
+
 Academic year: 2016-2017
 
 Authors: Francisco Barros & Rafael Ribeiro
