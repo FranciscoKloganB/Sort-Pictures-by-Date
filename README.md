@@ -30,3 +30,4 @@ Project details:
 	*  - "Insuficiente" (Insufficient): The given input is not sufficient to find a unique order for the elements;
 	*  - "Incoerente" (Incoherent): The given input is not coherent. For example given elements u, v, k, according to the input element u should come before v which should come before k, which in turn, comes before u (cycle);
 	*  - A line of N elements written in order based on the relations given as input, if the input was both coherent and sufficient.
+
