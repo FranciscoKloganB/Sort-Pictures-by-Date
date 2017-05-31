@@ -1,6 +1,6 @@
 # Topological Sorting
 
-Institution: Instituto Superior Técnico - Universidade de Lisboa
+Institution: Instituto Superior TÃ©cnico - Universidade de Lisboa
 Course: Computer Science and Engineering (LEIC)
 Academic year: 2016-2017
 
@@ -20,9 +20,10 @@ Project details:
 * Execute using linux terminal: $ projectSolution
 *
 * The input consists of:
-* - One line with the number of elements to order (N) and the number of relations L that are known;
-* - A list with N lines of relations;
+*   One line with the number of elements to order (N) and the number of relations L that are known;
+*   A list with N lines of relations;
+*
 * The output may be one of the following:
-* - "Insuficiente" (Insufficient): The given input is not sufficient to find a unique order for the elements;
-* - "Incoerente" (Incoherent): The given input is not coherent. For example given elements u, v, k, according to the input element u should come before v which should come before k, which in turn, comes before u (cycle);
-* - A line of N elements written in order based on the relations given as input, if the input was both coherent and sufficient.
+*   "Insuficiente" (Insufficient): The given input is not sufficient to find a unique order for the elements;
+*   "Incoerente" (Incoherent): The given input is not coherent. For example given elements u, v, k, according to the input element u should come before v which should come before k, which in turn, comes before u (cycle);
+*   A line of N elements written in order based on the relations given as input, if the input was both coherent and sufficient.
